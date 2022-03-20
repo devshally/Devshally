@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# devshally
+
+- Flutter developer.
+- Open source.
+
+[![Devshally's github stats](https://github-readme-stats.vercel.app/api?username=Devshally)](https://github.com/devshally)
