@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **devshally/Devshally** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 # devshally
 
 - Flutter developer.
-- Open source.
 
 [![Devshally's github stats](https://github-readme-stats.vercel.app/api?username=Devshally)](https://github.com/devshally)
